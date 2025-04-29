@@ -31,20 +31,13 @@ An intelligent, interactive **AI chatbot** built with **Streamlit** and **OpenRo
 
 ---
 
-## 📸 Screenshots
-
-![Screenshot](https://user-images.githubusercontent.com/your-screenshot-link.png)
-
-*(Add your own app screenshot above, if you want)*
-
----
 
 ## ⚙️ How to Run Locally
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sport-diet-advisor.git
+git clone https://github.com/evilsharmaji/sport-diet-advisor.git
 cd sport-diet-advisor
 ```
 
@@ -89,7 +82,7 @@ API_KEY = "your_openrouter_api_key_here"
 You will get a live app link like:
 
 ```
-https://your-username-your-repo-name.streamlit.app/
+https://evilsharmaji-sport-diet-advisor.streamlit.app/
 ```
 
 ---
@@ -126,10 +119,9 @@ https://your-username-your-repo-name.streamlit.app/
 
 ## 👨‍💻 Author
 
-**Your Name**  
-B.Tech CSE | AI Enthusiast  
-Email: yourname@example.com  
-GitHub: [@yourusername](https://github.com/yourusername)
+**Priyanshu Sharma**  
+B.Tech CSE | AI Enthusiast    
+GitHub: [@yourusername](https://github.com/evilsharmaji)
 
 ---
 
