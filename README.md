@@ -37,7 +37,7 @@ An intelligent, interactive **AI chatbot** built with **Streamlit** and **OpenRo
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/evilsharmaji/sport-diet-advisor.git
+git clone https://github.com/your_username/sport-diet-advisor.git
 cd sport-diet-advisor
 ```
 
